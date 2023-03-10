@@ -2,12 +2,6 @@ import utils
 import codecs
 import os
 from subprocess import call
-word = 'abacate'
-sentence = 'abc def ghi asdasd abc akakaka 12321321 11 98'
-chars = utils.get_chars(word)
-
-print(utils.sort(sentence))
-
 def clear():
     # check and make call for specific operating system
     _ = call('clear' if os.name == 'posix' else 'cls')
@@ -15,7 +9,11 @@ def clear():
 def help(args):
     print("\nclassify, c : Classifica uma lista de elementos\n    -f [<caminho do arquivo .txt>] : Usa entrada por arquivo em vez de manual (default)\n    --dedupe : Desduplica os itens da lista\n    --invert : Inverte a classificação (ordem decrescente ou alfabética invertida)\n    --no-numbers : Excluí todos os números de uma lista\n    -s [<caminho do arquivo para salvar>]: Salva a lista classificada\nexit : Sai do programa\n")
 
+def exit(args):
+    exit()
+
 def classify(args):
+    clear()
     sentence = ''
     manual = True
     dedupe = False
@@ -49,26 +47,23 @@ def classify(args):
         saveFile = codecs.open(r'{}'.format(savePath), "w", "utf8")
         for word in sorted_sentence:
             saveFile.write(word + '\n')
-
-        
+        saveFile.close()
 
     print(sorted_sentence)
 
 def run():
     while(True):
-        args = input("$ Enter command\n\n>").split()
+        args = input("$ Enter command\n\n> ").split()
         try:
             command = args[0]
             args.pop(0)
         except Exception:
             print("You must enter a command!")
             break
-        
-        globals()[command](args)
-        # try:
-        #     globals()[command](args)
-        # except Exception:
-        #     print("This command doesn't exist. Use 'help' for more information!")
+        try:
+            globals()[command](args)
+        except:
+            print("This command doesn't exist. Use 'help' for more information!")
 
 
 
