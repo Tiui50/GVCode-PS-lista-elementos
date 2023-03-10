@@ -8,7 +8,7 @@
 - Caracteres.
 
 ### Formas de classificação
-Ver [_comandos_](https://github.com/Tiui50/GVCode-PS-lista-elementos/edit/thiago/README.md#comandos "Comandos!")
+Ver [_comandos_](https://github.com/Tiui50/GVCode-PS-lista-elementos/tree/thiago#comandos "Comandos!")
 - Alfabética  
 - Alfabética invertida 
 - Crescente 
