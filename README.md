@@ -26,10 +26,9 @@ Ver [_comandos_](https://github.com/Tiui50/GVCode-PS-lista-elementos/edit/thiago
 ### Comandos
 
     classify, c : Classifica uma lista de elementos
-        -h, --help : Mostra todos  os modificadores    
-        -f, --file [<caminho do arquivo .txt>] : Usa entrada por arquivo em vez de manual (default)
-        -d, --dedupe : Desduplica os itens da lista
-        -i, --invert : Inverte a classificação (ordem decrescente ou alfabética invertida)
+        -f [<caminho do arquivo .txt>] : Usa entrada por arquivo em vez de manual (default)
+        --dedupe : Desduplica os itens da lista
+        --invert : Inverte a classificação (ordem decrescente ou alfabética invertida)
         --no-numbers : Excluí todos os números de uma lista
-        -s, --save [<caminho do arquivo para salvar>]: Salva a lista classificada
+        -s [<caminho do arquivo para salvar>]: Salva a lista classificada (**CUIDADO!** O programa sobre escreverá o arquivo .txt caso ele já exista!)
     exit : Sai do programa.

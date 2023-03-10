@@ -6,7 +6,6 @@ word = 'abacate'
 sentence = 'abc def ghi asdasd abc akakaka 12321321 11 98'
 chars = utils.get_chars(word)
 
-print(utils.sort(utils.get_chars(word)))
 print(utils.sort(sentence))
 
 def clear():
@@ -21,7 +20,6 @@ def classify(args):
     manual = True
     dedupe = False
     numbers = True
-    invert = False
     savePath = ''
     filePath = ''
 
@@ -43,12 +41,16 @@ def classify(args):
     
     sorted_sentence = utils.sort(sentence, dedupe=dedupe, numbers=numbers)
 
+    if  args.count('--invert') != 0:
+        sorted_sentence = sorted_sentence[::-1]
 
     if args.count('-s') != 0:
         savePath = args[args.index('-s')+1]
+        saveFile = codecs.open(r'{}'.format(savePath), "w", "utf8")
+        for word in sorted_sentence:
+            saveFile.write(word + '\n')
 
-    if  args.count('--invert') != 0:
-        invert = True
+        
 
     print(sorted_sentence)
 

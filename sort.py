@@ -19,29 +19,30 @@ def merge_sort(arr):
   
         # Efetuando o sort (merge)
         while i < len(left) and j < len(right):
-            leftChars = utils.chars_to_number(utils.get_chars(left[i]))
-            rightChars = utils.chars_to_number(utils.get_chars(right[j]))
-            leftChar = leftChars[0]
-            rightChar = rightChars[0]
+            valueLeft = 0
+            valueRight = 0
 
-            if leftChars != rightChars:
-                x = y = 0
+            try:
+                valueLeft = float(left[i])
+                valueRight = float(right[j])
+            except:
+                leftChars = utils.chars_to_number(utils.get_chars(left[i]))
+                rightChars = utils.chars_to_number(utils.get_chars(right[j]))
 
-                while leftChar == rightChar:
-                    x+=1
-                    y+=1
-                    if(x == len(leftChars)):
-                        arr[k] = left[i]
+                for index in range(len(leftChars)):
+                    try:
+                        rightChars[index]
+                    except:
+                        valueRight = 0
+                        valueLeft = leftChars[index]
                         break
-                    elif( y == len(rightChars)):
-                        arr[k] = right[j]
+                    if (rightChars[index] != leftChars[index]):
+                        valueRight = rightChars[index]
+                        valueLeft = leftChars[index]
                         break
 
-                    leftChar = leftChars[x]
-                    rightChar = rightChars[y]
-
-
-            if leftChar <= rightChar:
+            # print(str(valueLeft) + "   " +  str(valueRight))
+            if valueLeft <= valueRight:
                 arr[k] = left[i]
                 i += 1
             else:

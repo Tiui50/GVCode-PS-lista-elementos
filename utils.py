@@ -1,5 +1,6 @@
 import string
 import sort as s
+import re
 
 def get_chars(word):
     return [*word]
@@ -20,17 +21,31 @@ def number_to_chars(numbers):
 
 def get_words(sentence, numbers):
 
-    sentence = str(sentence)
+    arr = str(sentence).split()
+    pattern = r"[^a-zA-Z\-\.]"
+    patternNoDots = r"[^a-zA-Z\-]"
+
     if numbers:
         try:
-            return sentence.translate(str.maketrans('', '', string.punctuation)).split()
+            for index in range(len(arr)):
+                try:
+                    float(arr[index])
+                except:
+                    arr[index] = re.sub(pattern, "", str(arr[index])).lower().capitalize()
         except:
-            return sentence
+            print("error in utils.get_words")
     else:
         try:
-            return sentence.translate(str.maketrans('', '', string.punctuation)).translate(str.maketrans('', '', string.digits)).split()
+            for index in range(len(arr)):
+                arr[index] = re.sub(patternNoDots, "", str(arr[index])).lower().capitalize().translate(str.maketrans('', '', string.digits))
+                print(arr[index])
         except:
-            return sentence
+            print("error in utils.get_words")
+
+    while("" in arr):
+        arr.remove("")
+    
+    return arr
 
 def sort(sentence, dedupe=False,  numbers=True):
     value = get_words(sentence, numbers)
