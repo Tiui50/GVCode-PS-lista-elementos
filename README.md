@@ -25,7 +25,7 @@ Ver [_comandos_](https://github.com/Tiui50/GVCode-PS-lista-elementos/edit/thiago
     
 ### Comandos
 
-    classify, c : Classifica uma lista de elementos
+    classify: Classifica uma lista de elementos
         -f [<caminho do arquivo .txt>] : Usa entrada por arquivo em vez de manual (default)
         --dedupe : Desduplica os itens da lista
         --invert : Inverte a classificação (ordem decrescente ou alfabética invertida)
