@@ -1,0 +1,206 @@
+﻿COLEGIO STOCKLER
+
+2ª SÉRIE B DO ENSINO MÉDIO
+
+CURSO DE MONOGRAFIA
+
+
+
+
+Thiago Ahualli Steinberg 
+
+
+
+
+Bitcoin: uma análise frente a teoria da moeda
+
+
+
+
+
+
+
+
+
+
+
+São Paulo 
+2021
+
+RESUMO
+      Em 2008, foi lançado um artigo por um grupo anônimo pelo pseudônimo Satoshi Nakamoto, que revolucionou os meios de pagamento: as bases teóricas para a primeira criptomoeda viável, o Bitcoin. Nesse trabalho foram estabelecidas as bases de como, pela criptografia, se executar transações monetárias de forma segura sem a necessidade de um mediador. Essa mudança drástica em comparação às moedas tradicionais fez muitos teóricos se questionarem: onde no campo da teoria da moeda se encaixaria essa nova forma da moeda? Em busca de responder essa questão, esse trabalho faz uma análise da criptomoeda a partir da visão das teorias de diferentes autores de épocas diferentes.
+PALAVRAS-CHAVE: Moeda. Criptomoeda. Meios de pagamento. Bitcoin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sumário
+I. Introdução	4
+II. Metodologia	5
+III. A teoria estatal da moeda	6
+IV. A teoria do crédito	9
+V. Modern Money Theory e o entendimento moderno da moeda	12
+VI. O que constitui uma criptomoeda?	13
+VII. Conclusão	16
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I. Introdução
+	Em 2008, enquanto o mundo entrava em recessão, foi lançado um artigo sorrateiramente em um fórum de discussões econômicas na internet por um grupo anônimo que se intitulou “Satoshi Nakamoto” chamado: Bitcoin: A Peer-to-Peer Eletronic Cash System. Nesse artigo foram discutidas as bases teóricas para um possível novo tipo de método de pagamento, completamente anônimo e sem intermediários. Isso se concretizaria algum tempo depois com o surgimento da primeira criptomoeda viável e funcional: o Bitcoin.
+	Na economia, desde sua infância, teóricos tentam responder algumas perguntas como: o que é a moeda? Como ela surgiu? Como ela se diferencia de outras formas de troca? Inicialmente as teorias que prevaleciam eram as de que o valor da moeda estava associado com sua representação material, isto é, os metais preciosos que a compunham, mas assim como Knapp aponta no início e durante seu livro The State Theory of Money, há uma série de situações que essa teoria simplesmente não pode suportar.
+	Essa discussão logo tomou lados, dos que afirmavam que o valor da moeda era associado ao seu material1 versus aqueles que acreditavam que a moeda havia outras propriedades que lhe concediam valor, não associadas com sua forma física. Dentro dessa discussão, um dos pontos mais questionados é: o que precede, a moeda ou o mercado? Dependendo do que atribui a moeda valor, pode-se ter respostas radicalmente diferentes. Por muito tempo, as definições da moeda levavam a acreditar que o mercado surgiu primeiro, inicialmente trabalhando com o escambo e posteriormente, com o surgimento da moeda substituindo-o. Essa forma de entender a situação foi denominada commodity money, pois o dinheiro serve somente como uma commodity, ou seja, um bem intermediário facilitador usado no lugar de outros bens (i.e., em vez de trocar uma ovelha por grãos, trocam-se por moedas de prata).
+	Segundo Innes, a moeda é uma forma de crédito, ou seja, tem o poder de quitar dívidas, propriedade não necessariamente presente em outros ativos ou commodities. Desta maneira, a moeda não necessariamente precede o mercado, mas as suas relações: desde o Antigo Egito existem relações de crédito e débito entre os diferentes estamentos, que não necessariamente eram expressas pela moeda. Na Modern Money Theory (MMT), teoria que, coincidentemente, também ganhou muita tração no ano de 2008, essa relação chega a ser completamente revertida: a moeda não somente precede o mercado, assim como ele não poderia existir sem ela.
+	Nesse panorama, porém, nunca havia se visto um meio de pagamento completamente descentralizado e completamente anônimo. De alguma forma, os agentes que desejavam realizar uma transação deviam se conhecer de alguma forma ou ter sua interação mediada por uma terceira parte, seja por um pagamento físico, uma transferência bancária ou qualquer outra forma de transferência monetária. O surgimento do Bitcoin marca uma divisória histórica muito importante para definição da moeda, visto que esse cria uma situação em que é de fato possível o completo anonimato, sem a necessidade de um intermediário. Vistas tais considerações, o objetivo principal desse trabalho monográfico será definir: como a criptomoeda se encaixa nesse quebra-cabeça da teoria da moeda.
+
+II. Metodologia
+	Em busca de responder à questão: “A criptomoeda é realmente uma moeda?” foi necessário realizar pesquisa sobre “a moeda”, as teorias sobre seu surgimento e seu conceito, para então estudar as características da criptomoeda. Foi a comparação dessas características, à luz das teorias mencionadas, que nos levou à resposta para a questão originalmente posta, ainda que os conceitos de moeda tradicional não nos desse um ponto de partida para analisar a criptomoeda. 
+ 	Para tanto, foram utilizadas fontes como livros, teses, artigos, além de palestras, tanto presenciais quanto virtuais. Tais fontes foram encontradas através de informações disponíveis em mecanismos de busca como o google acadêmico e referências presentes em outros trabalhos. 
+ 	Assim, a conclusão atingida foi fruto não só da base de pesquisa, mas também da extensão e interpretação do autor, que foi inspirada e fundamentada, principalmente na referência [1].
+
+III. A teoria estatal da moeda
+	No campo da teoria econômica, essa foi uma das mais influentes teorias anti-metalistas. Contrário as percepções metalistas da moeda, Knapp – que inaugura a teoria estatal da moeda – apresenta a tese em seu livro The State Theory of Money (1924) de que a moeda, na essência, é um ente da lei. Como colocado em suas palavras: “The soul of currency is not in the material of the pieces, but in the legal ordinances which regulate their use.2” (KNAPP, p.2, 1924).
+	Em suas diversas publicações, Knapp questiona a visão metalista – teoria mais aceita na época – de que a moeda seria somente um desdobramento das relações de escambo previamente estabelecidas e que seu valor seria “seu peso em ouro”, isso a dizer que o valor da moeda está ligado somente a seu objeto que a representa e os metais preciosos nela contidos, sejam eles ouro, prata etc.3 Isso é definido por Knapp com o termo comodity money. Esse mesmo conceito foi usado para definir a riqueza de nações durante toda a época da exploração colonial e do antigo regime. Knapp coloca em dúvida essas teorias durante toda sua escrita como sumarizado por Araújo:
+Atrelar o valor da moeda a uma quantidade específica de um tipo de material não faz qualquer sentido, uma vez que a “mercadoria geral de trocas” – a moeda – está intrinsecamente ligada à existência de uma relação social. (KNAPP apud Araújo, p. 17, 2021).
+      No lugar disso, ele defende que o valor da moeda está ligado ao seu reconhecimento pela sociedade, assim uma moeda (objeto) pode representar um valor como R$0,02 e uma nota, R$100,00, mesmo que o valor material nela usado seja muito menos valioso e útil. Por essa razão ele coloca que: “The natural man is a metallist; the theorist, on the other hand, is forced to become a nominalist4, because it is not always possible to define the unit of value as a given quantity of metal.” (KNAPP, p. 10, 1924).5
+      Posteriormente, autores como o historiador israelense Yuval Noah Harari argumentam que a moeda seria somente uma construção social, perdendo seu sentido se a sociedade não lhe conferisse valor. Em seus textos (e palestras) ele faz menção de como a habilidade inata de cooperação do ser humano e sua capacidade de imaginar uma realidade, ou seja, a criação de histórias nos empodera para criar conceitos abstratos como a moeda (informação verbal)6.
+      Desta forma a moeda é colocada como uma unidade de conta, sendo um elemento da lei, parte reguladora fundamental e mecanismo de controle e fortalecimento do poder estatal por causa de seu valor reconhecido socialmente. Esse reconhecimento de valor vem parcialmente da autoridade e controle estrito do Estado sobre seu valor e circulação. 
+      Mesmo sobre a visão abstrata da teoria sobre a moeda, é evidente que ela precisa tomar uma forma física para se tornar um meio de pagamento. Assim Knapp cria o conceito de ticket ou token, ou seja, a moeda em sua forma de meio de pagamento. Essa denominação dada vem a fim de diferenciá-la como meio de pagamento e como unidade de conta. A grande diferença desta determinação com as teorias metalistas é que, mesmo tendo uma manifestação física, o valor da moeda não é determinado pelo objeto em si, mas sim pelos fatores citados. Isso traz o conceito de Cartalidade, que é uma forma de reconhecimento e liquidação de dívida independente do token. Nas palavras de Knapp: 
+Money always signifies a Chartal means of payment. Every Chartal means of payment we call money. The definition of money is therefore a Chartal means of payment (p.38). […] Chartality makes the concept of the means of payment independent of the material. The Chartal form is the ample frame in which can be set means of payment, whether made of precious material or of the poorest material (p. 40).7 (KNAPP apud Araújo, p. 18, 2021).
+      O Estado usa o conceito de token como mais uma forma de dominação e estabelecimento de poder, já que esse tem sua forma escolhida por ele, assim se tornando meio exclusivo de pagamento que pode ser usado para se fazer transações que o envolvem como agente. Isso traz o conceito de valuta money, que é o token emitido exclusivamente pelo Estado, ou seja, a moeda estatal8, naquela época, o dinheiro físico. Knapp também estende que, todos os pagamentos sendo cartais, têm a presença do Estado:
+Money is definitive if, when payment is made in it, the business is completely concluded: first for the payer, secondly for the recipient, and thirdly for the issuer of the money. The payer is no longer under an obligation, the recipient has no further rights either against the payer or against the State, if the State has issued the Money. (KNAPP apud Araújo, p. 18, 2021).9
+	Outro ponto central colocado por Knapp é a criação das bank-notes, ou o dinheiro bancário, que é uma parte essencial para o funcionamento do sistema capitalista presente hoje. As bank-notes funcionam por meio da entrega ao banco uma quantia em valuta money, da forma em que o agente não precise se preocupar com sua proteção e gestão, em troca o banco permaneceria em posse desse dinheiro. O agente pode, posteriormente, retirar a quantia que depositou novamente em sua forma de dinheiro estatal para aplicações em outros setores da economia. Dessa forma, as bank-notes são essencialmente uma promessa de pagamento em dinheiro estatal. Mesmo assim isso não as torna um token ou valuta money assim como explica Araújo: 
+[...] isso significa que a moeda bancária não é automaticamente moeda estatal, mas um documento “chartal”, uma vez que o Estado assegurou formalmente que a moeda bancária sob a forma de uma bank note (hoje um depósito bancário) representa ao par, ou através de algum tipo de conversão, a moeda criada pela autoridade legal. (ARAÚJO, p.19, 2021).
+	Mesmo não sendo valuta money, ela representa uma parte primordial para o funcionamento da economia, já que, sem as bank-notes, se tornaria virtualmente impossível a formação de contratos de agentes não pertencentes ao setor bancário, assim tornando impossível a dinamicidade presente na atual economia. Araújo coloca: 
+[...] a moeda bancária é um componente imprescindível no sistema monetário e, apesar de não ser por definição valuta money e de ser criada de forma privada, a moeda bancária representa a moeda estatal na liquidação dos contratos dos agentes do setor não bancário [...]. (ARAÚJO, p. 19, 2021).
+	Knapp, coloca que os meios de pagamento podem mudar, porém, para que isso aconteça é necessária a aceitação do Estado, e que seja estabelecida uma taxa de conversão oficial. Assim, continua indiferente a forma ou objeto (se houver) que representa a nova forma de dinheiro que foi proposta, desde que nessa seja possível o estabelecimento de padrões de tributação. Desta forma, conforme o Estado incorpora cada vez mais os sistemas de pagamentos bancários como meio de tributação, ele acaba se tornando também valuta money, pois são incorporados e aceitos pelo Estado como meio de pagamento oficial. Araújo explica: “Desse modo, mesmo que o foco do trabalho de Knapp (1924) não seja descrever exaustivamente a importância dos tributos nessa dinâmica, a existência de um sistema tributário é essencial.” (ARAÚJO, p. 20, 2021).
+	Esse modelo criado por Knapp se torna tão elegante visto que, aplicado retroativamente, continua sendo coerente. Essas relações, mesmo que não sendo explícitas, datam desde o Antigo Egito, em que não havia meios de troca na forma da moeda que há hoje, mas as relações sociais que categorizam a moeda já existiam. Mesmo não havendo a tributação e o estabelecimento de tokens ainda havia uma relação de crédito e débito: as classes sociais inferiores teriam de servir ao faraó, sendo um dever equiparável ao que há atualmente com os impostos. Essa análise das relações de crédito e débito seria posteriormente explorada por autores como Innes.
+
+IV. A teoria do crédito 
+	Juntamente com Knapp, Innes inaugurou em artigo de 1913, “What is money?” – publicado pelo The Banking Law Journal – a teoria do crédito. Assim como Knapp, ele defende teses anti-metalistas, contrárias as teorias econômicas mais aceitas na época. A visão que Innes traz a luz sobre a moeda, complementada a de Knapp, constitui as fundações para teorias cartais futuras.
+	No artigo, Innes coloca como pilar principal do estabelecimento de valor da moeda o crédito. O crédito é a capacidade de solvência de dívidas, sejam em qualquer forma que elas estejam expressas. Ele estabelece o crédito como predecessor da moeda, Araújo descreve suas reflexões: 
+Na realidade, para Innes, moeda é crédito, e o crédito existe antes mesmo da própria moeda [...] em sua percepção, o valor do crédito tampouco dependeria da existência do ouro ou da prata, mas sim da capacidade de solvência de seu devedor. (ARAÚJO, p. 21-22, 2021).
+	Assim como autores posteriores, Innes estabelece a moeda como unidade de conta abstrata e coloca que essa dificuldade do reconhecimento (presente na época) e causada pela incompreensão de como a aparência física e materiais constituintes são independentes do reconhecimento de valor. Além disso, ele defende como não haveria a necessidade – portanto a existência – da moeda caso não existisse dívidas para serem quitadas: “‘money’ cannot exist without the existence of a debt to be redeemed.”10(INNES apud Araújo, p. 22, 2021).
+	Visto o papel do crédito na existência da moeda, Innes estende essa compreensão para descrever relações comerciais: para ele um agente pode ser tanto credor quanto devedor, já que esse tem obrigações de cumprir com dívidas que assumiu e tem o direito de receber de outros agentes endividados a ele. Com essa noção, pode-se ampliar o conceito, fazendo assim uma cadeia interligada de dívidas e deveres dos mais variados agentes econômicos, assim descrevendo as relações comerciais de forma abrangente.
+	Além disso, Innes ressalta uma propriedade específica da moeda estatal: já que essa tem sua forma determinada pelo Estado, – de forma muito semelhante a leitura de Knapp e, posteriormente as de Keynes – isso lhe torna o único meio que é capaz de quitar dívidas com o Estado, tais como as taxas. A tributação é uma das funções mais importantes que o Estado possui, segundo Innes, pois isso oficializa e cimenta o lugar da moeda estatal como meio de pagamento “oficial”.
+	Posteriormente Keynes coloca as diferenças entre meios de troca e meios de pagamento, assim como explicado como Araújo: 
+Na sua função de meio de pagamento, a moeda será usada para quitar pagamentos e dívidas, enquanto que na segunda função ela é facilitadora as trocas – função essa definidora da moeda nas visões convencionais. (ARAÚJO, p. 25, 2021).
+	Nota-se que o meio de pagamento tem sua definição intrinsecamente ligada às ideias de crédito, primeiro expostas por Innes; por sua vez como meio de troca, a moeda segue outro propósito: o facilitamento do estabelecimento de relações comerciais. Essa distinção é importante, visto que servem funções muito diferentes: enquanto o primeiro evidencia as relações de crédito, a segunda é uma forma facilitadora à troca, bem intermediário que serve como mercadoria.
+	Keynes, em suas teorias, também descreve as formas da moeda, sendo a mais relevante para discussão: a fiduciária. Esse tipo de moeda, como descrito por Keynes, é semelhante ao dinheiro estatal como explicado por Knapp. Araújo explica: 
+A moeda fiduciária, por sua vez, é o um dinheiro representativo; um objeto cujo valor não tem qualquer ligação com seu valor nominal monetário, pois, de acordo com Keynes, é geralmente feito de papel e não é convertível em nada além de si mesmo. (ARAÚJO, p. 26, 2021).
+	Mesmo assim, ainda há grandes diferenças comparado a descrição de Knapp, especialmente quanto ao estabelecimento de valor. O valor de uma moeda fiduciária parte de uma promessa de valor futura, assim se tem um sistema recursivo de crença, como descrito por Bertolai e Oliveira11 (p. 24), é o que efetivamente estabelece o valor da moeda nessa situação. Além disso, há o fator da não conversibilidade, o que quer dizer, é impossível de converter a moeda fiduciária em qualquer outra forma da moeda, tornando-a na “hierarquia da moeda” a mais poderosa. O conceito de não conversibilidade é uma parte muito importante para definir o que é a moeda, pois, como será visto, é uma característica extremamente importante para explicar, em capítulos futuros, se algo é efetivamente uma moeda ou não. 
+
+V. Modern Money Theory12 e o entendimento moderno da moeda
+	A construção da MMT começou cerca de 25 anos atrás, com a publicação de um livro por Wray de 1998 Understanding Modern Money: The Key to Full Employment and Price Stability, e hoje é a teoria mais aceita dentro das esferas da teoria da moeda. O objetivo principal dessa teoria seria unificar as teorias estatais e as teorias do crédito13. Araújo explica a conexão feita por Wray:
+Essa conexão, segundo Wray (2019), é feita seguindo uma conhecida frase de Hyman Minsky, no qual o argumento central é o de que “anyone can create money, the problem is to get it accepted.” 14[...]. (ARAÚJO, p. 30, 2021).
+	Um dos focos centrais da MMT é a reformulação da noção tradicional de que os mercados precedem a moeda, para isso, se há dois argumentos centrais. O primeiro usa a estrutura de produção do capitalismo moderno para explicar o porquê de a moeda preceder o mercado. Isso acontece, pois como Araújo explica (p. 30), a produção tem seu começo e fim no dinheiro, sendo o mercado somente uma etapa do processo de conversão. Assim, sem o sistema de crédito (a moeda), seria impossível haver o estabelecimento da produção, portanto, ela necessariamente precede o mercado. O segundo argumento é constituído pelo funcionamento do sistema tributário. Araújo explica: 
+Por mais que o crédito esteja vinculado à existência da moeda bancária, a unidade de conta à qual essa moeda privada é denominada é a moeda estatal. Escolhida pelo Estado e apoiada por um sistema legal, essa moeda está sempre ancorada por um sistema tributário (WRAY, 2019, p. 85). Em função disso, pode-se dizer que o valor de uma moeda fiduciária a partir da leitura da MMT é definido pela imposição de uma obrigação tributária pelo Estado, a qual deverá ser paga na moeda estatal. A ideia central é a de que “taxes drive money”15, uma vez que um governo soberano cria a moeda que servirá como unidade de conta e impõe as obrigações que deverão ser pagas exclusivamente com essa moeda. (ARAÚJO, p. 30, 2021).
+	Araújo explica que é necessário que haja um sistema legal confiável para que o sistema monetário funcione, já que sem uma tributação consistente e constante, para que seja possível quitar as dívidas a tempo. O Estado, sendo a autoridade soberana, consegue impor esse sistema mediante ameaça de punição, assim forçando que as dívidas a ele sejam quitadas com a moeda estatal. Isso traz o conceito do IOU16 estatal: 
+[...] é uma relação social, sendo uma promessa ou obrigação que não pode ser identificada sem seu uso institucional. Essa relação de dívida envolve uma operação dos dois lados do balanço contábil, sendo, também, uma relação de crédito e débito: toda vez que se cria moeda, ela se torna passivo de agente emissor e ativo do agente detentor. (ARAÚJO, p. 32, 2021).
+	Um dos entendimentos criados pela MMT foi o do estabelecimento de uma hierarquia dentro da qualidade17 da moeda. A lógica de funcionamento dessa hierarquia é baseada em um sistema de estabelecimento de conversibilidade – seja ele taxado ou não – no qual os tipos de ativos podem ser convertidos em outros distintos. Na base da pirâmide, há as quase-moedas18 e ativos financeiros, que podem ser somente convertidos entre si. Esses são o tipo que possuem valor mais instável, pois dependem da flutuação de tendências do mercado. A moeda bancária ocupa o segundo lugar nessa lista – visto que essa está em maior quantidade que a moeda fiduciária – e a em menor quantidade (e, portanto, maior qualidade) será a fiduciária. É um papel muito importante do Banco Central estabelecer a possibilidade de conversão da moeda bancária para a moeda fiduciária, porém não permitir a conversão da terceira camada com as duas superiores. 
+	Com o entendimento básico da MMT, e os princípios que a definem – a tributação e a ordem moeda-mercado – podemos começar a explorar a questão: “A criptomoeda é efetivamente moeda?”
+
+VI. O que constitui uma criptomoeda?
+	Antes de abordar o que é uma criptomoeda frente a teoria da moeda, precisamos entender, de forma resumida, sua operação e seus principais objetivos por trás de sua criação.
+	O Bitcoin, a primeira criptomoeda tecnicamente viável, teve suas origens em um estudo publicado por uma pessoa ou um grupo anônimo que passava pelo pseudônimo “Satoshi Nakamoto”. Nesse estudo é descrito os objetivos da criação e todo princípio de funcionamento do que é denominado hoje pelo termo “criptomoeda”. Nos últimos anos se viu uma explosão no público que conhecia e discutia sobre investimentos e o funcionamento das criptomoedas. Mas para entender como a moeda se encaixa no panorama do ponto de vista da teoria econômica, precisamos definir: o que constitui uma criptomoeda e por quais mecanismos ela opera?
+	O termo criptomoeda define em si algumas características básicas: o uso de tecnologias de criptografia, notavelmente hashing19, para criar uma unidade de valor independente de governos e outras instituições financeiras; todas as diferentes formas de criptomoedas funcionam por um sistema descentralizado de estabelecimento de confiança em transações entre partes reciprocamente desconfiadas. A descrição de Nakamoto em seu artigo que descreve o funcionamento do Bitcoin sumariza seu funcionamento: “A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.”20 (NAKAMOTO, 2008).
+	Assim, como visto nos capítulos anteriores, todas as relações de crédito e todos os meios de pagamento poderiam envolver, ao menos, dois agentes, mas era mandatória a presença de um intermediário – seja ele na forma de uma instituição financeira ou o Estado – que todas as partes podem acreditar. Nakamoto expõe alguns dos problemas do sistema tradicional de transações: 
+Merchants must be wary of their customers, hassling them for more information than they would otherwise need. […] These costs and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party. (NAKAMOTO, 2008).21
+      A grande questão colocada no desenvolvimento das criptomoedas é: como pode-se eliminar a necessidade desse intermediário preservando a confiança entre as partes; em outras palavras: garantir a veracidade de afirmações feitas por agentes sem ter uma organização central que avalize o que é válido ou não. Além disso, sem a presença de um mediador, se introduz uma série de problemas, como a falha bizantina22, e principalmente a forma que se preveem usuários de má fé abusarem o sistema fazendo transações inválidas, incorretas ou indesejadas.
+       Em seu artigo, Nakamoto introduz o funcionamento de como transações seriam feitas nesse novo sistema: 
+We define an electronic coin as a chain of digital signatures. Each owner transfers the coin to the next by digitally signing a hash of the previous transaction [...] A payee can verify the signatures to verify the chain of ownership. 23(NAKAMOTO, 2008).
+	Novamente, isso cria o que se deseja ser evitado: a necessidade de uma autoridade central. Mesmo tendo assinaturas digitais, ainda sim, não há nenhuma parte que mantém um “registro oficial” de todas as transações. Nakamoto problematiza a situação mais uma vez:
+The problem of course is the payee can't verify that one of the owners did not double-spend the coin. A common solution is to introduce a trusted central authority, or mint, that checks every transaction for double spending […]. The problem with this solution is that the fate of the entire money system depends on the company running the mint, with every transaction having to go through them, just like a bank.24 (NAKAMOTO, 2008).
+      Para finalmente resolver essa necessidade de uma autoridade central para gerir a legitimidade das transações, se introduz um sistema de blocos. Essa garantia passa a ser fornecida por meio de um sistema de prova criptográfica: mineradores25 usam seu poder computacional distribuído para achar hashes com condições extremamente específicas (portanto raras) em blocos de transações. Cada agente tem a sua própria versão das transações e dos blocos em questão. Quando um usuário faz o broadcast26 de um novo bloco com suas respectivas propriedades, os outros agentes verificarão a validade dos itens nele contidos; caso esse bloco seja julgado válido, esse reconhecimento seria dado continuando a cadeia de blocos27, anexando-o como bloco pai. Esse sistema de proof-of-work28, tem sua funcionalidade garantida pelo fato de se ter uma rede não coordenada, assim tornando virtualmente impossível se ter um bloco com transações falsificadas.
+      Como incentivo à mineração, além de resolver o problema da introdução de novas moedas ao sistema (já que esse não tem autoridade central para distribui-las), a cada novo bloco registrado, o minerador deve se autorrecompensar com um determinado valor em criptomoeda.
+      Essa segurança criada por todos esses dispositivos colocados para prevenir a necessidade e interferência de mediadores geram a segurança necessária para haver um reconhecimento de valor desta moeda. Esse reconhecimento dado pelos seus usuários gera o potencial usado para que as criptomoedas se tornem um meio de pagamento e uma forma de expressar dívida independente da moeda estatal. 
+
+VII. Conclusão
+	Como previamente visto, todas as formas de moeda dependem de um sistema de reconhecimento social para se criar um senso de valor; essa confiança parte de vários fatores, sendo o mais relevante para a questão discutida, a dívida do Estado com a sociedade de estabelecer os tokens e garantir sua validade. Mais importantemente, a moeda tradicional operando como meio de pagamento depende sempre de um intermediário (i.e., o Estado em uma transação física, uma instituição financeira em uma transação financeira etc.) para garantir a realização e a legitimidade da transação.
+	As criptomoedas imediatamente violam as fundações da moeda como meio de pagamento, pois trabalha em um sistema descentralizado; a confiança necessária para uma transação não parte do intermediário, mas sim de um sistema de regras (fundadas na tecnologia) que todas as partes são obrigadas a seguir. Assim, qualquer transação com criptomoedas imediatamente exclui a presença do Estado como ente regulador e intermediário, pois esse não é mais necessário para garantir a legitimidade de uma transação. Portanto, se tem um sistema em que a confiança necessária para se haver transações é independente, sendo criada somente pela própria comunidade que opera as criptomoedas.
+	Além disso, por causa de sua volatilidade, não é possível afirmar que as criptomoedas possuem reserva de valor. Em sua forma atual, a moeda não funciona como uma profecia autorrealizável: já que essa tem como propriedade a anonimidade, não é possível atribui-la a alguém ou algum objeto, assim intrinsecamente a desligando com algum estado físico. De certa forma, a criptomoeda seria a forma mais pura da moeda, servindo exclusivamente como numerário, pois seu valor não é confiável e não é possível colocá-la como meio de troca exatamente por causa dessa intangibilidade.  
+	Mesmo assim, por sua definição, a forma descentralizada da criptomoeda viola fundamentalmente o conceito de unidade de conta, pois, visto que o Estado não tem controle sobre suas instituições financeiras – já que elas não existem – não é possível que esse controle seus tokens. Portanto, isso elimina a possiblidade de tributação, já que essa é impossível de se estabelecer, pois não há uma autoridade centralizadora. Isso também retira o poder do Estado de emitir o IOU estatal na forma das criptomoedas, por causa de sua falta de poder sobre essa. Além disso, por causa de sua volatilidade, há dificuldade em seu estabelecimento como unidade de conta, já que isso força a sua conversibilidade para extravasar as variações para outros ativos e/ou moedas.
+	Portanto, segue-se conforme as teorias tradicionais que não é possível afirmar que a criptomoeda é efetivamente uma moeda. Mesmo assim, é insatisfatório equipará-la a um ativo financeiro, já que essa ainda tem propriedades que permitem mais que a simples troca, ou contratualização. Visto que todas as teorias aqui são somente descritivas, isto é, descrevem a moeda a partir da sua forma já existente, assim tornando a definição circular, e, não somente isso, mas o fato de todas serem anteriores a formação da criptomoeda, simplesmente não coloca um bom ponto de partida para essa análise. Essa tecnologia revolucionária do ponto de vista de estabelecimento de confiança e legitimação, é, sem melhores palavras, fundamentalmente complexa e específica demais para ser analisada com teorias clássicas.
+	Entretanto, pode-se argumentar que as criptomoedas, são de fato moedas: a necessidade de um intermediário está intrinsecamente ligada à desconfiança gerada em um sistema em que há agentes de má fé, portanto, deve-se ter, de alguma forma ou de outra, um ente mediador que garanta a validade da transação em questão. A criptomoeda, com uso de tecnologia, consegue estabelecer e flexibilizar o sistema de estabelecimento de confiança baseado no blockchain, assim eliminando a complexidade adicionada por um mediador. Como visto no capítulo III, o valor da moeda parte, não de suas propriedades, mas sim sua habilidade de convencer a sociedade de que é confiável e que a aceitação futura (a profecia autorrealizável), será garantida. Sob análise próxima, é muito difícil que uma moeda se mantenha perpetuamente dentro das condições estabelecidas pelos teóricos, basta retornar para o período de hiperinflação no Brasil para perceber que o valor estava instável na moeda, pois o Estado não conseguia manter a reserva de valor, mesmo assim, ainda se consideravam moedas. 
+	A grande diferença entre as criptomoedas e as moedas convencionais está no fundamento tecnológico por trás delas: antes das criptomoedas, não havia uma tecnologia que permitia o record-keeping29 sem um ente centralizador – que havia sua legitimidade estabelecida e monitorada pela sociedade – que determina a validade de todas as transações; o Bitcoin reverteu essa situação, onde se parte do reconhecimento de legitimidade de uma forma sistêmica. A quase impossibilidade de fraudar o blockchain, por causa da verificação estabelecida pelo proof-of-work, garante a segurança e permite o estabelecimento de valor de outra forma. Por causa dessa mudança tecnológica fundamental, se torna fútil tentar encaixar a criptomoeda dentro da classificação de uma moeda tradicional, já que essa cumpre suas funções, mas somente de forma diferente. 
+	Além disso, os problemas inicialmente apontados podem ser rastreados a fatores vindos da definição da moeda: exatamente por causa das propriedades que foram circularmente usadas para definir a moeda, foram criadas pela sociedade exatamente para remediar as falhas presentes em sistemas monetários prévios. Ademais, pode-se traçar parte das conclusões previamente afirmadas a fatores externos: a volatilidade, por exemplo, pode ser associada a uma multitude de fatores externos: a introdução recente da tecnologia, a sua possibilidade de mudança rápida (já que se trata de algo ainda em desenvolvimento), entre outros. A dificuldade de ser usada como unidade de conta, parte exatamente dessa volatilidade intrínseca e da dificuldade – que pode ser visto como algo temporário – de se adquiri-la para uso, por causa disso, os comerciantes são relutantes em usá-las como unidade oficial de preço. Futuramente, é possível que as criptomoedas se tornem numerários e moedas contratuais (como acontece com o Etherium, que faz uso da tecnologia das criptomoedas tanto quando de smart contracts30).
+	Proposta: tratar a criptomoeda como uma nova forma da moeda, independente do Estado, que possui valor flexível, reconhecimento de legitimidade independentemente de um mediador. Assim como na biologia há os frutos e pseudofrutos, a criptomoeda poderia ser expressa como uma manifestação diferente da moeda, servindo o mesmo objetivo, servir como meio de troca, unidade de conta e numerário, somente tomando um caminho diferente para fazê-lo.
+	Assim, como feito historicamente quando surge um novo funcionamento do dinheiro, poder-se-ia estender o conceito de moeda para o incluir. Assim como a moeda bancária e as outras formas de moedas privadas – que dependem menos do Estado – a criptomoeda seria o próximo passo nessa progressão: a independência total.
+
+Referências
+[1] BERTOLAI, Jefferson Donizeti Pereira; OLIVEIRA, Victor Augusto de Almeida. Criptomoedas e Teoria Monetária: uma Introdução. Análise Econômica, Porto Alegre, p. 197-236, 2020. Disponível em: https://www.seer.ufrgs.br/AnaliseEconomica 
+[2] HARARI, Yuval Noah. Why Humans Run The World. TED, 2015. Disponível em: https://www.youtube.com/watch?v=nzj7Wg4DAbs&t=111s&ab_channel=TED. Acesso em: 5 out. 2021.
+[3] INNES, Alfred Mitchell. What is money? The Banking Law Journal. p. 419-421, 1913. Disponível em: https://www.jstor.org/stable/2222005?origin=crossref. Acesso em: 5 out. 2021.
+[4] KNAPP, Georg Friedrich. The State Theory Of Money. 1924. 326 p.
+[5] NAKAMOTO, Satoshi. Bitcoin: A Peer-to-Peer Electronic Cash System. 2008. 9 p. Disponível em: https://bitcoin.org/bitcoin.pdf. Acesso em: 5 out. 2021.
+ [6] SILVA, Laís Araújo E. CRIPTOMOEDAS, MOEDAS DIGITAIS E SISTEMAS DE PAGAMENTOS: DESAFIOS E OPORTUNIDADES PARA OS BANCOS CENTRAIS FRENTE AO SURGIMENTO DO BITCOIN. 2021. 102 p. Dissertação de Mestrado (Mestra em Ciências Econômicas) - Universidade Estadual de Campinas, 2021. Disponível em: http://repositorio.unicamp.br/jspui/handle/REPOSIP/359832. Acesso em: 5 out. 2021.
+1 Knapp chama esse grupo de “metalistas”, já que eles acreditam que é o metal que dá o valor a moeda, esse conceito é conhecido como “autometalismo”.
+2 A alma da moeda não está no material que a constitui, mas na carga legal que regula o seu uso. (Tradução nossa).
+3 Knapp chama esse conceito de “autometalismo”, ou seja, os metais usados como forma de pagamento, estabelecendo o valor da moeda simplesmente pela sua presença.
+4 O termo “nominalista” presente na citação é usado para se referir às teorias anti-metalistas.
+5 A pessoa natural é um metalista; o teórico, por sua vez, é forçado a se tornar um nominalista, pois não é sempre possível definir uma unidade como uma certa quantidade de metal. (Tradução nossa).
+6 Palestra TED, dada em 24 de julho de 2015, por Yuval Noah Harari, historiador israelense disponível eletronicamente (acessado 30/09/2021) em https://youtu.be/nzj7Wg4DAbs, no canal oficial TED.
+7 Dinheiro sempre significa um meio cartal de pagamento. Todo meio cartal de pagamento nós chamamos de “dinheiro”. A definição de dinheiro, portanto, é um meio de pagamento cartal (p.38). [...] Cartalidade faz o conceito dos meios de pagamento independente do material. A forma cartal é uma moldura ampla que podem-se colocar meios de pagamento, sejam eles feitos do material mais precioso ou do mais pobre. (Tradução nossa).
+8 Outra forma de indicar o conceito de valuta money.
+9 O dinheiro só é definitivo se, quando o pagamento feito por ele, o negócio está definitivamente finalizado: primeiramente para o pagante, segundamente para o recipiente e finalmente para o impressor da moeda [o Estado]. O pagante não está mais sob obrigação, o recipiente não tem mais direitos contra o pagante ou contra o Estado, se esse imprimiu o dinheiro. (Tradução nossa).
+10 ‘Dinheiro’ não pode existir sem a existência de uma dívida a ser quitada. (Tradução nossa).
+11 Esse sistema de crença recursiva é definido pelo valor futuro que se torna o valor presente, isto é, há uma promessa de valor futuro, que em torno promete valor no “futuro do futuro”, e assim ad infinitum, portanto isso se torna, em seus termos: “uma profecia autorrealizável” (BERTOLAI e OLIVERA, p. 24, 2020).
+12 A Modern Money Theory será referida pela sigla MMT.
+13 Essas teorias, quando usadas, representam respectivamente aspectos do funcionamento do Estado com a moeda e de instituições financeiras com a moeda.
+14 Qualquer um pode criar dinheiro, o problema é ter ele aceito. (Tradução nossa).
+15 As taxas são a força motora por trás da moeda. (Tradução nossa).
+16 Em inglês, “IOU” possui a sonoridade da frase “I Owe You”, que significa o estabelecimento de uma relação de dívida (“Eu estou endividado a você”).
+17 O termo qualidade não faz referência a uma qualidade material, mas sim a alguns fatores como escassez e conversibilidade.
+18 Ativos de alta liquidez, porém de retorno lento (i.e., títulos públicos). 
+19 Trata-se de um processo muito usado na criptografia, no qual toma-se uma mensagem e aplica-se um algoritmo para gerar um valor numérico único e irreversível.
+20 Uma versão puramente par a par do dinheiro eletrônico que permitiria pagamentos online serem feitos sem passar por uma instituição financeira. (Tradução nossa).
+21 Comerciantes devem ser desconfiados de seus clientes, os importunando por informação que eles não precisariam. [...] Esses custos e pagamento de incertezas poderiam ser evitadas pagando em pessoa com uma moeda física, mas nenhum mecanismo permite que pagamentos sejam feitos usando um canal de comunicação remoto sem uma instituição mutuamente confiável. (Tradução nossa).
+22 A falha bizantina é um termo derivado do problema bizantino, usado para descrever um estado onde um sistema de computação distribuída (i.e. servidores na nuvem) introduz um erro sem que seja possível a determinação se foi uma falha deliberada, defeito em algum dos componentes ou a entrada de um valor incorreto.
+23 Nós definimos uma moeda eletrônica como uma cadeia de assinaturas. Cada proprietário transfere seu saldo [de moedas] para outros agentes assinando o hash da transação [...] O recipiente pode verificar as assinaturas para determinar a cadeia de proprietários.
+24 O problema é que o recipiente não consegue verificar que um dos donos não gastou a moeda duas vezes. Uma solução comum é introduzir uma autoridade central ou agente confiável, que checa todas as transações para verificar que o dinheiro efetivamente será transferido. [...] Um dos problemas com essa solução é que o que acontecerá com todo o dinheiro depende da companhia verificadora, tendo que ser passadas todas as transações por ela, da mesma forma que um banco. (Tradução nossa).
+25 Um minerador é um agente possessor de vastas quantidades de poder computacional, dedicado a garantir a veracidade de transações dentro de um sistema de criptomoeda por meio de um incentivo monetário.
+26 Termo em inglês que significa distribuir para todos os usuários de uma rede de computação distribuída determinada informação.
+27 Essa cadeia de blocos é o que define o termo em inglês blockchain.
+28 O atual sistema de proof-of-work será, futuramente, defasado pelo mais moderno e menos energeticamente intenso, proof-of-steak, que cumpre a mesma função de autenticação. 
+29 Termo em inglês que define a manutenção de um histórico de transações.
+30 Contratos resolvidos automaticamente após o cumprimento de condições postuladas eletronicamente.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+2
+
+
+[Digite aqui]
+
+
